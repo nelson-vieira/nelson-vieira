@@ -1,7 +1,7 @@
 ### Hello world! 👋 Welcome to my GitHub profile
 
 - 🔭 I'm currently working as a Full-Stack Developer using Ruby on Rails
-- 🌱 I'm currently learning SvelteKit and Astro
+- 🌱 I'm currently learning Svelte and Astro
 
 <!--
 **nelson-vieira/nelson-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
