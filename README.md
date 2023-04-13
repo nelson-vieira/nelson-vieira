@@ -2,7 +2,8 @@
 
 - 🔭 I'm currently working as a Full-Stack Developer using Ruby on Rails
 - 🌱 I'm currently learning Svelte and Astro
-- 📫 You can reach me at [redacted]
+- 📫 You can reach me with hello@nelsonvieira.me
+- ⚡ Fun fact: I'm a cinephile
 
 <!--
 **nelson-vieira/nelson-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
