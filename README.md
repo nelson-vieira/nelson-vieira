@@ -1,3 +1,11 @@
+<!---
+SPDX-License-Identifier: CC-BY-4.0
+
+Copyright (c) 2023 Nelson Vieira
+
+@author Nelson Vieira <nelson0.vieira@gmail.com>
+@license CC-BY-4.0 <https://creativecommons.org/licenses/by/4.0/legalcode.txt>
+--->
 <div align="center">
     <a href="https://dev.to/nelson-vieira" target="_blank"><img alt="DEV.to" src="https://img.shields.io/badge/-DEV.to-000000?style=round-square&logo=DEV.to"></a>
     <a href="https://www.linkedin.com/in/nelson-f-vieira/" target="_blank"><img alt="DEV.to" src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=round-square&logo=LinkedIn"></a>
