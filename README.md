@@ -1,21 +1,17 @@
+<div align="center">
+    <a href="https://dev.to/nelson-vieira" target="_blank"><img alt="DEV.to" src="https://img.shields.io/badge/-DEV.to-000000?style=round-square&logo=DEV.to"></a>
+    <a href="https://github.com/nelson-vieira" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@nelson--vieira-000000?style=round-square&logo=GitHub"></a>
+</div>
+
+---
+
 ### Hello world! 👋 Welcome to my GitHub profile
 
 - 🔭 I'm currently working as a Full-Stack Developer using Ruby on Rails
 - 🌱 I'm currently learning Svelte and Astro
-- 📫 You can reach me with hello@nelsonvieira.me
+- 📫 You can say hello@nelsonvieira.me
 - ⚡ Fun fact: I'm a cinephile
 
 <!--
-**nelson-vieira/nelson-vieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Visit my [website](https://nelsonvieira.me/) for more information about me 😃
 -->
