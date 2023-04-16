@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working as a Full-Stack Developer using Ruby on Rails
 - 🌱 I'm currently learning Svelte and Astro
-- 📫 You can say hello@nelsonvieira.me, or at <span style="color:#2f81f7;text-decoration:none;">nelson-vieira#9067</span> in <img alt="Discord" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b52aa9e99b832574a53_full_logo_blurple_RGB.png" width="65px" height="auto">
+- 📫 You can say **hello@nelsonvieira.me**, or at <img alt="Discord" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0b52aa9e99b832574a53_full_logo_blurple_RGB.png" width="65px" height="auto"> **`nelson-vieira#9067`**
 - ⚡ I love music, video games and am a cinephile
 
 <!--
