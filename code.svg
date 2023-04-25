@@ -80,59 +80,39 @@ Pavel Ševčík for 'CSS Snow Animation Effect' <https://codepen.io/codeconvey/p
                 }
                 .flame-wrapper:nth-child(2) {
                     bottom: 5px;
-                    left: 60px;
+                    left: 80px;
                 }
                 .flame-wrapper:nth-child(3) {
-                    bottom: -10px;
-                    left: 100px;
+                    bottom: -20px;
+                    left: 150px;
                 }
                 .flame-wrapper:nth-child(4) {
                     bottom: 5px;
-                    left: 150px;
+                    left: 200px;
                 }
                 .flame-wrapper:nth-child(5) {
                     bottom: 25px;
-                    left: 200px;
+                    left: 300px;
                 }
                 .flame-wrapper:nth-child(6) {
                     bottom: -30px;
-                    left: 260px;
+                    left: 370px;
                 }
                 .flame-wrapper:nth-child(7) {
                     bottom: -5px;
-                    left: 310px;
+                    left: 460px;
                 }
                 .flame-wrapper:nth-child(8) {
                     bottom: 15px;
-                    left: 380px;
+                    left: 550px;
                 }
                 .flame-wrapper:nth-child(9) {
                     bottom: 0px;
-                    left: 440px;
+                    left: 670px;
                 }
                 .flame-wrapper:nth-child(10) {
                     bottom: 30px;
-                    left: 500px;
-                }
-                .flame-wrapper:nth-child(11) {
-                    bottom: 6px;
-                    left: 560px;
-                }
-                .flame-wrapper:nth-child(12) {
-                    bottom: 20px;
-                    left: 610px;
-                }
-                .flame-wrapper:nth-child(13) {
-                    bottom: -5px;
-                    left: 660px;
-                }
-                .flame-wrapper:nth-child(14) {
-                    bottom: -10px;
-                    left: 720px;
-                }
-                .flame-wrapper:nth-child(15) {
-                    bottom: 0px;
-                    left: 780px;
+                    left: 770px;
                 }
                 .flame {
                     animation: burn-baby-burn 0.4s linear infinite;
@@ -231,15 +211,16 @@ Pavel Ševčík for 'CSS Snow Animation Effect' <https://codepen.io/codeconvey/p
                 }
                 @-webkit-keyframes expose-block{
                     100% {
-                        text-shadow:
-                            0 1px 0 #efefef,
-                            0 2px 0 #efefef,
-                            0 3px 0 #efefef,
-                            0 4px 0 #efefef,
-                            0 12px 5px rgba(0, 0, 0, 0.1);
-                        background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
-                        -webkit-background-clip: text;
-                        -webkit-text-fill-color: transparent;
+                        color: #08153b;
+                        text-shadow: -4px 4px #ef3550,
+                            -8px 8px #f48fb1,
+                            -10px 10px #7e57c2,
+                            -12px 12px #2196f3,
+                            -14px 14px #26c6da,
+                            -18px 18px #43a047,
+                            -20px 20px #eeff41,
+                            -22px 22px #f9a825,
+                            -24px 24px #ff5722;
                     }
                 }
                 @-webkit-keyframes block-slide-in{
@@ -262,15 +243,16 @@ Pavel Ševčík for 'CSS Snow Animation Effect' <https://codepen.io/codeconvey/p
                 }
                 @keyframes expose-block {
                     100% {
-                        text-shadow:
-                            0 1px 0 #efefef,
-                            0 2px 0 #efefef,
-                            0 3px 0 #efefef,
-                            0 4px 0 #efefef,
-                            0 12px 5px rgba(0, 0, 0, 0.1);
-                        background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
-                        -webkit-background-clip: text;
-                        -webkit-text-fill-color: transparent;
+                        color: #08153b;
+                        text-shadow: -4px 4px #ef3550,
+                            -8px 8px #f48fb1,
+                            -10px 10px #7e57c2,
+                            -12px 12px #2196f3,
+                            -14px 14px #26c6da,
+                            -18px 18px #43a047,
+                            -20px 20px #eeff41,
+                            -22px 22px #f9a825,
+                            -24px 24px #ff5722;
                     }
                 }
                 @keyframes block-slide-in {
@@ -419,21 +401,6 @@ Pavel Ševčík for 'CSS Snow Animation Effect' <https://codepen.io/codeconvey/p
                 </h1>
             </div>
             <div class="flame-container">
-                <div class="flame-wrapper">
-                    <div class="flame"></div>
-                </div>
-                <div class="flame-wrapper">
-                    <div class="flame"></div>
-                </div>
-                <div class="flame-wrapper">
-                    <div class="flame"></div>
-                </div>
-                <div class="flame-wrapper">
-                    <div class="flame"></div>
-                </div>
-                <div class="flame-wrapper">
-                    <div class="flame"></div>
-                </div>
                 <div class="flame-wrapper">
                     <div class="flame"></div>
                 </div>
