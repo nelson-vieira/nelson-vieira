@@ -34,7 +34,7 @@ Pavel Ševčík for 'CSS Snow Animation Effect' <https://codepen.io/codeconvey/p
                     justify-content: center;
                     color: white;
                     text-align: center;
-                    background: linear-gradient(-45deg, #eacafa, #bbf0c3, #f4f5bf);
+                    background: linear-gradient(-45deg, #a217e8, #12db30, #dfe30e, #e3320e);
                     background-size: 600% 400%;
                     -webkit-animation-name:gradient-background;
                     -webkit-animation-duration:10s;
