@@ -231,7 +231,15 @@ Pavel Ševčík for 'CSS Snow Animation Effect' <https://codepen.io/codeconvey/p
                 }
                 @-webkit-keyframes expose-block{
                     100% {
-                        color: #6adc22;
+                        text-shadow:
+                            0 1px 0 #efefef,
+                            0 2px 0 #efefef,
+                            0 3px 0 #efefef,
+                            0 4px 0 #efefef,
+                            0 12px 5px rgba(0, 0, 0, 0.1);
+                        background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+                        -webkit-background-clip: text;
+                        -webkit-text-fill-color: transparent;
                     }
                 }
                 @-webkit-keyframes block-slide-in{
@@ -254,13 +262,15 @@ Pavel Ševčík for 'CSS Snow Animation Effect' <https://codepen.io/codeconvey/p
                 }
                 @keyframes expose-block {
                     100% {
-                        color: #08153b;
                         text-shadow:
                             0 1px 0 #efefef,
                             0 2px 0 #efefef,
                             0 3px 0 #efefef,
                             0 4px 0 #efefef,
                             0 12px 5px rgba(0, 0, 0, 0.1);
+                        background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+                        -webkit-background-clip: text;
+                        -webkit-text-fill-color: transparent;
                     }
                 }
                 @keyframes block-slide-in {
