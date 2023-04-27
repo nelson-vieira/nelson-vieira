@@ -25,6 +25,8 @@ Copyright (c) 2023 Nelson Vieira
 Visit my [website](https://nelsonvieira.me/) for more information about me 😃
 -->
 
+<br>
+<br>
 <div align="center">
     <img src="code.svg" width="800" height="400" alt="Coding is awesome">
 </div>
