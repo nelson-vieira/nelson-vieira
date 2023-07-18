@@ -160,6 +160,7 @@ Pavel Ševčík for 'CSS Snow Animation Effect' <https://codepen.io/codeconvey/p
                 }
                 /* Text Color Blocks */
                 .block-reveal {
+                    font-size: 0.9em;
                     color: transparent;
                     padding: 4px;
                     position: relative;
@@ -398,13 +399,61 @@ Pavel Ševčík for 'CSS Snow Animation Effect' <https://codepen.io/codeconvey/p
                         transform: translateX(0px)
                     }
                 }
+                .qr{
+                    z-index:99;
+                    -webkit-user-select:none;
+                    -moz-user-select:none;
+                    -ms-user-select:none;
+                    user-select:none;
+                    cursor:default;
+                    -webkit-animation-name:qr-shake;
+                    -webkit-animation-duration:10s,3s;
+                    -webkit-animation-timing-function:linear,ease-in-out;
+                    -webkit-animation-iteration-count:infinite,infinite;
+                    -webkit-animation-play-state:running,running;
+                    animation-name:qr-shake;
+                    animation-duration:10s,3s;
+                    animation-timing-function:linear,ease-in-out;
+                    animation-iteration-count:infinite,infinite;
+                    animation-play-state:running,running;
+                    -webkit-animation-delay:0.5s;
+                    animation-delay:0.5s;
+                }
+                @-webkit-keyframes qr-shake{
+                    0% {
+                        -webkit-transform: translateX(0px);
+                        transform: translateX(0px)
+                    }
+                    50% {
+                        -webkit-transform: translateX(50px);
+                        transform: translateX(50px)
+                    }
+                    100% {
+                        -webkit-transform: translateX(0px);
+                        transform:translateX(0px)
+                    }
+                }
+                @keyframes qr-shake{
+                    0% {
+                        -webkit-transform: translateX(0px);
+                        transform: translateX(0px)
+                    }
+                    50% {
+                        -webkit-transform: translateX(800px);
+                        transform: translateX(800px)
+                    }
+                    100% {
+                        -webkit-transform: translateX(0px);
+                        transform: translateX(0px)
+                    }
+                }
             </style>
             <div class="content">
                 <div class="text-container">
                     <h1>
-                        <div class="block-reveal">The more I know</div>
-                        <div class="block-reveal">the more I realise</div>
-                        <div class="block-reveal">I know nothing</div>
+                        <div class="block-reveal">I tell the computer</div>
+                        <div class="block-reveal">what to do</div>
+                        <div class="block-reveal">Sometimes it works</div>
                     </h1>
                 </div>
                 <div class="flame-container">
@@ -474,4 +523,5 @@ Pavel Ševčík for 'CSS Snow Animation Effect' <https://codepen.io/codeconvey/p
             </div>
         </div>
     </foreignObject>
+    <image class="qr" href="https://i.imgur.com/MONibJT.png" height="1" width="1" />
 </svg>
