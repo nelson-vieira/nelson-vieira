@@ -19,7 +19,7 @@ Copyright (c) 2023 Nelson Vieira
 - 🔭 I'm currently working as a Full-Stack Developer using Ruby on Rails
 - 🌱 I'm currently learning Svelte and Astro
 - 📫 You can say **hello@nelsonvieira.me**
-- ⚡ I love music (mostly rock and metal lately), cinema (specially french cinema) and video games (nowadays don't have much time to play any)
+- ⚡ I love music (mostly darkwave and prog rock lately), cinema (specially french cinema) and video games
 
 <!--
 Visit my [website](https://nelsonvieira.me/) for more information about me 😃
