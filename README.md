@@ -17,9 +17,9 @@ Copyright (c) 2023 Nelson Vieira
 ### Hello world! 👋 Welcome to my GitHub profile
 
 - 🔭 I'm currently working as a Full-Stack Developer using Ruby on Rails
-- 🌱 I'm currently learning Svelte and Astro
+- 🌱 I'm currently learning Svelte(Kit) and Laravel
 - 📫 You can say **hello@nelsonvieira.me**
-- ⚡ I love music (mostly darkwave and prog rock lately), cinema (specially french cinema) and video games
+- ⚡ I love music (from hardcore, prog, industrial, gothic to jazz), cinema (specially french cinema) and video games
 
 <!--
 Visit my [website](https://nelsonvieira.me/) for more information about me 😃
