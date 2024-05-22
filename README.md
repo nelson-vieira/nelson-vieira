@@ -1,7 +1,7 @@
 <!---
 SPDX-License-Identifier: CC0-1.0
 
-Copyright (c) 2023 Nelson Vieira
+Copyright (c) 2024 Nelson Vieira
 
 @author Nelson Vieira <hello@nelsonvieira.me>
 @license CC0-1.0 <https://creativecommons.org/publicdomain/zero/1.0/legalcode.txt>
